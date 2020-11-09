@@ -1,0 +1,13 @@
+H:\Aiub files\C#\Lab_Task_6\bin\Debug\netcoreapp3.1\Lab_Task_6.exe
+H:\Aiub files\C#\Lab_Task_6\bin\Debug\netcoreapp3.1\Lab_Task_6.deps.json
+H:\Aiub files\C#\Lab_Task_6\bin\Debug\netcoreapp3.1\Lab_Task_6.runtimeconfig.json
+H:\Aiub files\C#\Lab_Task_6\bin\Debug\netcoreapp3.1\Lab_Task_6.runtimeconfig.dev.json
+H:\Aiub files\C#\Lab_Task_6\bin\Debug\netcoreapp3.1\Lab_Task_6.dll
+H:\Aiub files\C#\Lab_Task_6\bin\Debug\netcoreapp3.1\Lab_Task_6.pdb
+H:\Aiub files\C#\Lab_Task_6\obj\Debug\netcoreapp3.1\Lab_Task_6.csprojAssemblyReference.cache
+H:\Aiub files\C#\Lab_Task_6\obj\Debug\netcoreapp3.1\Lab_Task_6.AssemblyInfoInputs.cache
+H:\Aiub files\C#\Lab_Task_6\obj\Debug\netcoreapp3.1\Lab_Task_6.AssemblyInfo.cs
+H:\Aiub files\C#\Lab_Task_6\obj\Debug\netcoreapp3.1\Lab_Task_6.csproj.CoreCompileInputs.cache
+H:\Aiub files\C#\Lab_Task_6\obj\Debug\netcoreapp3.1\Lab_Task_6.dll
+H:\Aiub files\C#\Lab_Task_6\obj\Debug\netcoreapp3.1\Lab_Task_6.pdb
+H:\Aiub files\C#\Lab_Task_6\obj\Debug\netcoreapp3.1\Lab_Task_6.genruntimeconfig.cache
